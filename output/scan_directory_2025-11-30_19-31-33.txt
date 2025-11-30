@@ -1,0 +1,37 @@
+======================================================================
+RAPPORT D'ANALYSE DE FICHIERS
+======================================================================
+Date: 2025-11-30 19:31:33
+Type: Scan de dossier
+Nombre total: 1
+======================================================================
+
+STATISTIQUES
+----------------------------------------------------------------------
+Total: 1
+Detectes: 1
+Non supportes: 0
+Ignores: 0
+Suspects: 0
+----------------------------------------------------------------------
+
+TYPES DETECTES
+----------------------------------------------------------------------
+Compressed archive: 1
+
+DETAILS COMPLETS
+======================================================================
+
+[1/1] steam_latest.png
+Chemin: /home/mrhy/Téléchargements/steam_latest.png
+Taille: 19.36 Mo (20297688 octets)
+Extension: .png
+Type: Unix archiver (ar)-MS Program Library Common Object File Format (COFF)
+Extension attendue: LIB
+Classe: Compressed archive
+Signatures: 2 correspondances
+----------------------------------------------------------------------
+
+======================================================================
+FIN DU RAPPORT
+======================================================================
